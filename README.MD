@@ -3,8 +3,8 @@
 📍 *Universidad Tecnológica Nacional*  
 
 ## ✨ Estudiante  
-- **Nombre:** Mathias Jesus Flor **  
-- **Comisión:** M2025-7 **  
+- **Nombre:** Mathias Jesus Flor 
+- **Comisión:** M2025-7  
 
 ## 📂 Descripción del Repositorio  
 Este repositorio almacena todas los trabajos prácticos realizados durante la cursada de **Programación 1**.  
